@@ -30,7 +30,7 @@ React Native, Tailwind y JavaScript.
 - Abra la consola:
   - Dentro de la carpeta raiz, ejecute la línea de comando,`npm install` / `yarn add`.
 
-### \_Agregar variables de entorno
+### _Agregar variables de entorno_
 
 - Crear un archivo con el nombre `.env` para poder ingresar sus variables de entorno cons sus credenciales:
 
